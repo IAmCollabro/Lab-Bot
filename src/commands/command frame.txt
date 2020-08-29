@@ -1,0 +1,16 @@
+const discord = require("discord.js")
+const botconfig = require("../botsettings.json/");
+
+module.exports.run = async(client, message, args) => {
+
+    
+}
+
+
+module.exports.config = {
+    name: "",
+    description: "",
+    useage:"",
+    accessability:"",
+    aliases:[]
+}
